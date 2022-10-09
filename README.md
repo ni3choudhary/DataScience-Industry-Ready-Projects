@@ -18,95 +18,95 @@ This command sets the author name and email address respectively to be used with
 git init 
 ```
 This command is used to start a new repository.
-![image](readme_resources/git_init.jpg)
+![image](./readme_resources/git_init.JPG)
 
 
 ```
 git clone
 ```
 This command is used to obtain a repository from an existing URL.
-![image](readme_resources/git_config.jpg)
+![image](./readme_resources/git_clone.JPG)
 
 
 ```
 git status
 ```
 This command lists all the files that have to be committed.
-![image](readme_resources/git_status.jpg)
+![image](./readme_resources/git_status.JPG)
 
 ```
 git add main.py
 ```
 This command adds a file to the staging area.
-![image](readme_resources/git_add.jpg)
+![image](./readme_resources/git_add.JPG)
 
 
 ```
 git add .
 ```
 This command adds one or more to the staging area.
-![image](readme_resources/git_add_all.jpg)
+![image](./readme_resources/git_add_all.JPG)
 
 
 ```
 git commit -m 'Added main.py'
 ```
 This command records or snapshots the file permanently in the version history.
-![image](readme_resources/git_commit.jpg)
+![image](./readme_resources/git_commit.JPG)
 
 
 ```
 git commit -a
 ```
 This command commits any files you’ve added with the git add command and also commits any files you've changed since then.
-![image](readme_resources/git_commit_a.jpg)
+![image](./readme_resources/git_commit_a.JPG)
 
 
 ```
 git diff
 ```
 This command shows the file differences which are not yet staged.
-![image](readme_resources/git_diff.jpg)
+![image](./readme_resources/git_diff.JPG)
 
 
 ```
 git merge developer
 ```
 This command merge the mentioned branch[developer] into current branch[master].
-![image](readme_resources/git_merge.jpg)
+![image](./readme_resources/git_merge.JPG)
 
 
 ```
 git rm -f index.html
 ```
 This command deletes the file from your working directory and stages the deletion.
-![image](readme_resources/git_rm.jpg)
+![image](./readme_resources/git_rm.JPG)
 
 
 ```
 git log
 ```
 This command is used to list the version history for the current branch.
-![image](readme_resources/git_log.jpg)
+![image](./readme_resources/git_log.JPG)
 
 git branch
 ```
 This command lists all the local branches in the current repository.
-![image](readme_resources/git_branch.jpg)
+![image](./readme_resources/git_branch.JPG)
 
 
 ```
 git branch developer
 ```
 This command creates a new branch.
-![image](readme_resources/git_branch_name.jpg)
+![image](./readme_resources/git_branch_name.JPG)
 
 
 ```
 git checkout developer
 ```
 This command used to change the branch.
-![image](readme_resources/git_checkout.jpg)
+![image](./readme_resources/git_checkout.JPG)
 
 
 ```
