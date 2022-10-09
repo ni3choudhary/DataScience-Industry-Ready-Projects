@@ -3,7 +3,7 @@
 
 ## Task 1:
 
-### Demonstrate minimum 15 basic docker command with explanation and screenshot.
+### Demonstrate minimum 15 basic Git command with explanation and screenshot.
 
 
 ```
@@ -112,22 +112,23 @@ This command used to change the branch.
 
 ```
 
+## Task 2:
 
-### Assignment 2:
+### Consider that your want to start an open-source project in your organization. Perform all the standard operation to create a repository with minimal permision for all the users. It should contain.
 
-[Hello World Docker Image](https://hub.docker.com/_/hello-world)
-Run Hello World Docker Image Locally.
-
-
-### Assignment 3:
-Create a hello world fastapi application.
-Create a Dockerfile for your fastapi hello world application.
-Build Docker image using Docker file.
-Run docker image build in previous step.
-Push your Docker image to Docker Hub.
+1. Proper open source structure
+2. Proper Readme
+3. Add 2 collaborator
+4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
 
 
-### Assignment 4:
-Automate Assignment below task using github action.
-1. Build Docker Image 
-2. Push Docker Image to Docker hub.
+## Task 3:
+
+1. Create a Issue in your github repository.
+2. Raise a pull request.
+3. Merge A pull request.
+4. Reject a pull request with proper comments.
+5. Add a Dependabot alerts in your github.(for above cases)
+6. Stash changes
+7. Create a release your package
+8. Setup a Projects Board for your project.
