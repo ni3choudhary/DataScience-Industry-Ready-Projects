@@ -11,7 +11,7 @@ git config –-global user.name "ni3choudhary"
 git config --global user.email "xyz@gmail.com"
 ```
 This command sets the author name and email address respectively to be used with your commits.
-![image](readme_resources/git_config.jpg)
+![image](./readme_resources/git_config.JPG)
 
 
 ```
