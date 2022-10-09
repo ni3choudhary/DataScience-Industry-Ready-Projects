@@ -89,6 +89,7 @@ git log
 This command is used to list the version history for the current branch.
 ![image](./readme_resources/git_log.JPG)
 
+```
 git branch
 ```
 This command lists all the local branches in the current repository.
