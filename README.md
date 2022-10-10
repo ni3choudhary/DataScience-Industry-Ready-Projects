@@ -110,8 +110,6 @@ This command used to change the branch.
 ![image](./readme_resources/git_checkout.JPG)
 
 
-```
-
 ## Task 2:
 
 ### Consider that your want to start an open-source project in your organization. Perform all the standard operation to create a repository with minimal permision for all the users. It should contain.
