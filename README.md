@@ -192,3 +192,6 @@ username - **nitin80855**
 8. Setup a Projects Board for your project.
 
 
+#### 1. Create a Issue in your github repository.
+
+![image](./readme_resources/github_issues.JPG)
