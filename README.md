@@ -197,3 +197,11 @@ You can find the Github Page <a href='https://nitin80855.github.io/assignement-1
 #### 1. Create a Issue in your github repository.
 
 ![image](./readme_resources/github_issues.JPG)
+
+#### 2. Raise a pull request.
+
+![GIF](./readme_resources/github_create_pull_request.gif)
+
+#### 3. Merge A pull request.
+
+![GIF](./readme_resources/github_merge_pull_request.gif)
