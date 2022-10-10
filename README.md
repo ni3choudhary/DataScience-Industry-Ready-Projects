@@ -119,8 +119,10 @@ This command used to change the branch.
 3. Add 2 collaborator
 4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
 
+#### 1. Proper Open Source Structure -- 
+Please check the files in the repository to run the end to end rain prediction till deployment.
 
-## Rainfall-Prediction-In-Australia-Deployment (Proper Readme)
+#### 2. Rainfall-Prediction-In-Australia-Deployment (Proper Readme)
 
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
@@ -164,14 +166,29 @@ $ pip install -r requirements.txt
 ```
 - Run jupyter notebook to get the pickle file inside **Model** directory.
 
-- Copy that pickle file and create a folder **Model** inside **flask** directory and paste the pickle file.
-
-- Inside the **flask** directory run **app.py** on terminal to start local server.
+- Now run **app.py** on terminal to start local server.
 ```console
 $ python app.py
 ```
 
 • If you want to view the deployed model, click on the following link: Deployed at: https://rainfall-prediction-australia.herokuapp.com/
 
-• Please do ⭐ the repository, if it helped you in anyway.
+
+#### 3. Add 2 collaborator 
+
+username - **nitin80855**
+
+#### 4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
+
+## Task 3
+
+1. Create a Issue in your github repository.
+2. Raise a pull request.
+3. Merge A pull request.
+4. Reject a pull request with proper comments.
+5. Add a Dependabot alerts in your github.(for above cases)
+6. Stash changes
+7. Create a release your package
+8. Setup a Projects Board for your project.
+
 
