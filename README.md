@@ -180,7 +180,7 @@ username - **nitin80855**
 
 #### 4. Host GitHub Pages using settings (Designed to host your personal, organization, or project pages from a GitHub repository)
 
-You can find the Github Page <a href='https://nitin80855.github.io/assignement-1-git-task2-github-pages/'>here</a>.
+You can find the Github Page <a href='https://nitin80855.github.io/assignement-1-git-task2-github-pages/'>here</a>. 
 
 ## Task 3
 
