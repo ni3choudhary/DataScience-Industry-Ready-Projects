@@ -207,4 +207,4 @@ You can find the Github Page <a href='https://nitin80855.github.io/assignement-1
 ![GIF](./readme_resources/github_merge_pull_request.gif)
 
 #### 4. Reject a pull request with proper comments.
-![GIF](./readme_resources/github_reject_pull_request.gif)
+![GIF](./readme_resources/github_close_pull_request.gif)
