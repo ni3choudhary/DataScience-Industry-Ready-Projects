@@ -232,3 +232,6 @@ To bring the changes to your working branch but delete the copy of the stash, ru
 
 #### 7. Create a release your package
 ![image](./readme_resources/github_releases.JPG)
+
+#### 8. Setup a Projects Board for your project.
+![image](./readme_resources/github_project_board.JPG)
