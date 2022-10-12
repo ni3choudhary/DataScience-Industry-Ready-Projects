@@ -229,3 +229,6 @@ To keep a copy of your changes in the stash and also bring them over to your wor
 
 To bring the changes to your working branch but delete the copy of the stash, run-
 ![image](./readme_resources/git_stash_pop.JPG)
+
+#### 7. Create a release your package
+![image](./readme_resources/github_releases.JPG)
