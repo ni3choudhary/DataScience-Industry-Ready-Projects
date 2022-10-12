@@ -217,3 +217,15 @@ You can find the Github Page <a href='https://nitin80855.github.io/assignement-1
 
 Run stash command to stash the changes.
 ![image](./readme_resources/git_stash.JPG)
+
+View Stashed Changes
+![image](./readme_resources/git_stash_list.JPG)
+
+If you want to view the details of a stash, run-
+![image](./readme_resources/git_stash_show.JPG)
+
+To keep a copy of your changes in the stash and also bring them over to your working branch, run-
+![image](./readme_resources/git_stash_apply.JPG)
+
+To bring the changes to your working branch but delete the copy of the stash, run-
+![image](./readme_resources/git_stash_pop.JPG)
