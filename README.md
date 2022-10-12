@@ -211,3 +211,9 @@ You can find the Github Page <a href='https://nitin80855.github.io/assignement-1
 
 #### 5. Add a Dependabot alerts in your github.(for above cases)
 - Dependabot Alerts Added, Please check .github folder for more information.
+
+#### 6. Stash changes
+![image](./readme_resources/git_status_readme.JPG)
+
+Run stash command to stash the changes.
+![image](./readme_resources/git_status_readme.JPG)
