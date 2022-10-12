@@ -216,4 +216,4 @@ You can find the Github Page <a href='https://nitin80855.github.io/assignement-1
 ![image](./readme_resources/git_status_readme.JPG)
 
 Run stash command to stash the changes.
-![image](./readme_resources/git_status_readme.JPG)
+![image](./readme_resources/git_stash.JPG)
