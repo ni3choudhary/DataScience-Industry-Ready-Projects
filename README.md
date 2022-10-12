@@ -208,3 +208,6 @@ You can find the Github Page <a href='https://nitin80855.github.io/assignement-1
 
 #### 4. Reject a pull request with proper comments.
 ![GIF](./readme_resources/github_close_pull_request.gif)
+
+#### 5. Add a Dependabot alerts in your github.(for above cases)
+- Dependabot Alerts Added, Please check .github folder for more information.
